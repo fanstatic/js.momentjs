@@ -4,6 +4,16 @@ library = Library('moment.js', 'resources')
 
 moment = Resource(library, 'moment.js', minified='moment.min.js')
 
+moment_timezone = Resource(
+    library, 'moment-timezone.js',
+    minified='moment-timezone.min.js',
+    depends=[moment])
+
+moment_timezone_with_data = Resource(
+    library, 'moment-timezone-with-data.js',
+    minified='moment-timezone-with-data.min.js',
+    depends=[moment])
+
 moment_with_locales = Resource(
     library,
     'moment-with-locales.js',
