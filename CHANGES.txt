@@ -4,7 +4,7 @@ CHANGES
 2.13.0 (unreleased)
 ==================
 
-- Update to moment 2.13.0 and moment-timezone 0.5.4
+- Update to moment-2.13.0 and moment-timezone-0.5.4.
 
 2.8.3-1 (2014-11-12)
 ====================
