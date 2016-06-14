@@ -1,8 +1,8 @@
 CHANGES
 *******
 
-2.13.0 (unreleased)
-==================
+2.13.0 (2016-06-14)
+===================
 
 - Update to moment-2.13.0 and moment-timezone-0.5.4.
 
