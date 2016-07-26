@@ -1,7 +1,7 @@
 CHANGES
 *******
 
-2.13.1 (unreleased)
+2.13.1 (2016-07-26)
 ===================
 
 - Provides all languages as fanstatic resources.
